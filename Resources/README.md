@@ -1,0 +1,1 @@
+this folder contains some resources to get started with webscraping and other tasks we will discuss later on.
