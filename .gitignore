@@ -1,2 +1,4 @@
 .env
 .gitconfig
+/chrome-win64
+.vscode/launch.json
