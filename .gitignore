@@ -4,3 +4,5 @@
 .vscode/launch.json
 .DS_Store
 ArticleData.csv
+Data.zip
+NewsSentiment.csv
