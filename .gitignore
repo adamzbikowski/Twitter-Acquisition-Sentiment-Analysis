@@ -2,3 +2,5 @@
 .gitconfig
 /chrome-win64
 .vscode/launch.json
+.DS_Store
+ArticleData.csv
